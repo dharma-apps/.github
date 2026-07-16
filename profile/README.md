@@ -11,5 +11,3 @@
   
 ### SKILLS: Git - HTML - Blockchain - Python - Java - JavaScript - Oracle - SQL - CSS - React - Flask - QA
 ### SOFT SKILLS: Responsabilidad - Creatividad - Espontaneidad
-
------------------------------------------ ![Texto Alternativo](https://media.giphy.com/media/02SF88QE37vY1q0VnQ/giphy.gif)  -----------------------------
